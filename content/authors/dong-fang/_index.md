@@ -1,16 +1,20 @@
 ---
 # Display name
-title: Bowen Zhou 周博文
+title: Fang Dong 东方
 
-# Full Name (for SEO)
-first_name: Bowen
-last_name: Zhou
+# Full name (for SEO)
+first_name: Fang
+last_name: Dong
+
+# Username (this should match the folder name)
+authors:
+  - dong-fang
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: PhD Student
+role: Professor
 
 # Organizations/Affiliations
 organizations:
@@ -63,11 +67,8 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Faculty
 ---
