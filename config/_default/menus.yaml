@@ -7,18 +7,18 @@ main:
   # - name: Tour
   #   url: tour
   #   weight: 10
-  - name: News
+  - name: 研究方向
     url: post
     weight: 20
-  - name: Members
+  - name: 团队成员
     url: member
     weight: 30
-  # - name: Events
-  #   url: event
-  #   weight: 40
-  - name: Publications
+  - name: 新闻活动
+    url: event
+    weight: 40
+  - name: 论文发表
     url: publication
     weight: 50
-  - name: Contact
+  - name: 联系我们
     url: contact
     weight: 60

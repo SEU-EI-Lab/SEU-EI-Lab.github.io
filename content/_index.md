@@ -8,30 +8,46 @@ sections:
   - block: hero
     content:
       title: |
-        About Us
+        关于我们
       image:
         filename: welcome.jpg
       text: |
         <br>
 
-        The **SEU Edge Intelligence Research Group** is a research team focusing on deep learning algorithm execution optimization based on device-edge-cloud three-tier architecture.
+        **东南大学边缘智能研究小组**……
 
         <br>
 
-  - block: markdown
+  - block: collection
     content:
       title: |
-        Our Research Directions
-      subtitle: ''
-      text: |
-        - Distributed Model Training
-        - Federated Learning
-        - Collaborative Model Inference
-        - Edge Video Enhancement
+        新闻活动
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: event
+    design:
+      view: compact
+      columns: '2'
 
   - block: collection
     content:
-      title: Latest News
+      title: 论文发表
+      subtitle:
+      text:
+      page_type: publication
+
+  - block: collection
+    content:
+      title: 研究方向
       subtitle:
       text:
       count: 5
@@ -45,8 +61,8 @@ sections:
       order: desc
       page_type: post
     design:
-      view: compact
-      columns: '1'
+      view: card
+      columns: '2'
   
   # - block: markdown
   #   content:
