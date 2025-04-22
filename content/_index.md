@@ -38,11 +38,9 @@ sections:
       view: compact
       columns: '2'
 
-  - block: collection
+  - block: markdown
     content:
       title: 论文发表
-      subtitle:
-      text:
       page_type: publication
 
   - block: collection

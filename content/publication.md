@@ -17,3 +17,4 @@ Shucun Fu, Fang Dong*, Dian Shen, Jinghui Zhang, Zhaowu Huang, Qiang He. Joint O
 ## 2022
 
 Fang Dong, Huitian Wang, Dian Shen, Zhaowu Huang, Qiang He, Jinghui Zhang. Multi-exit DNN Inference Acceleration based on Multi-Dimensional Optimization for Edge Intelligence. IEEE Transactions on Mobile Computing, 2022, 10.1109/TMC.2022.3172402.
+
