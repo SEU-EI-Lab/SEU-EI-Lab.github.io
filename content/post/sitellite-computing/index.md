@@ -1,14 +1,14 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Federated Learning"
+title: "Sitellite Computing"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2025-04-16T18:06:55+08:00
-lastmod: 2025-04-16T18:06:55+08:00
+date: 2025-04-23T22:52:58+08:00
+lastmod: 2025-04-23T22:52:58+08:00
 featured: false
 draft: false
 
@@ -28,6 +28,4 @@ image:
 projects: []
 ---
 
-联邦学习是一种分布式训练框架，各参与设备本地更新模型，仅上传梯度或参数，实现强隐私保护与协同智能化。
-
-<!--more-->
+Satellite Edge Computing，即卫星边缘计算，它将计算能力下沉至卫星端，就近处理数据，减少传输延迟，提升星地协同效率与数据处理时效性。

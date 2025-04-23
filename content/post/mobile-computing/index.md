@@ -1,14 +1,14 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Federated Learning"
+title: "Mobile Computing"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2025-04-16T18:06:55+08:00
-lastmod: 2025-04-16T18:06:55+08:00
+date: 2025-04-23T22:57:24+08:00
+lastmod: 2025-04-23T22:57:24+08:00
 featured: false
 draft: false
 
@@ -28,6 +28,4 @@ image:
 projects: []
 ---
 
-联邦学习是一种分布式训练框架，各参与设备本地更新模型，仅上传梯度或参数，实现强隐私保护与协同智能化。
-
-<!--more-->
+主要包含面向异构处理器的并行推理和基于DVFS的高效节能推理，分别从推理延迟和推理能耗研究，提高移动端端侧模型推理的性能。

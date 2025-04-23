@@ -1,14 +1,14 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Edge Video Analytics"
+title: "Multi Exit Dnn"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2025-04-16T18:15:11+08:00
-lastmod: 2025-04-16T18:15:11+08:00
+date: 2025-04-23T22:50:06+08:00
+lastmod: 2025-04-23T22:50:06+08:00
 featured: false
 draft: false
 
@@ -27,3 +27,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+作为一种深度神经网络架构，Multi-exit DNN 通过设置多个中间输出出口，根据任务需求灵活选择退出，实现效率与精度的平衡。

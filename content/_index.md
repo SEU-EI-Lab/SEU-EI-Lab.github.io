@@ -19,6 +19,7 @@ sections:
         <br>
 
   - block: collection
+    id: news
     content:
       title: |
         新闻活动
@@ -26,6 +27,7 @@ sections:
       text:
       count: 5
       filters:
+        folder: event
         author: ''
         category: ''
         exclude_featured: false
@@ -38,18 +40,20 @@ sections:
       view: compact
       columns: '2'
 
-  - block: markdown
-    content:
-      title: 论文发表
-      page_type: publication
+  # - block: markdown
+  #   content:
+  #     title: 论文发表
+  #     page_type: publication
 
   - block: collection
+    id: directions
     content:
       title: 研究方向
       subtitle:
       text:
-      count: 5
+      count: 15
       filters:
+        folder: post
         author: ''
         category: ''
         exclude_featured: false
@@ -59,7 +63,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
+      view: showcase
       columns: '2'
   
   # - block: markdown

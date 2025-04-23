@@ -1,14 +1,14 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Federated Learning"
+title: "Mot"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2025-04-16T18:06:55+08:00
-lastmod: 2025-04-16T18:06:55+08:00
+date: 2025-04-23T22:50:51+08:00
+lastmod: 2025-04-23T22:50:51+08:00
 featured: false
 draft: false
 
@@ -28,6 +28,4 @@ image:
 projects: []
 ---
 
-联邦学习是一种分布式训练框架，各参与设备本地更新模型，仅上传梯度或参数，实现强隐私保护与协同智能化。
-
-<!--more-->
+MoT 即多目标跟踪（Multiple Object Tracking），是对视频场景中多个目标的运动轨迹进行实时跟踪的技术，助力动态场景分析与决策。

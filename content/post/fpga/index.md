@@ -1,14 +1,14 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Federated Learning"
+title: "Fpga"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2025-04-16T18:06:55+08:00
-lastmod: 2025-04-16T18:06:55+08:00
+date: 2025-04-23T22:55:34+08:00
+lastmod: 2025-04-23T22:55:34+08:00
 featured: false
 draft: false
 
@@ -28,6 +28,4 @@ image:
 projects: []
 ---
 
-联邦学习是一种分布式训练框架，各参与设备本地更新模型，仅上传梯度或参数，实现强隐私保护与协同智能化。
-
-<!--more-->
+通过FPGA的硬件可重构能力，在硬件层面完成软件算法的优化，以实现高吞吐量和出色性能功耗比，满足实时应用的低延迟需求。

@@ -1,14 +1,14 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Federated Learning"
+title: "Serverless"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2025-04-16T18:06:55+08:00
-lastmod: 2025-04-16T18:06:55+08:00
+date: 2025-04-23T23:00:46+08:00
+lastmod: 2025-04-23T23:00:46+08:00
 featured: false
 draft: false
 
@@ -28,6 +28,4 @@ image:
 projects: []
 ---
 
-联邦学习是一种分布式训练框架，各参与设备本地更新模型，仅上传梯度或参数，实现强隐私保护与协同智能化。
-
-<!--more-->
+当采用Serverless架构部署边缘智能应用时，面临冷启动时间长、资源利用率低的问题，需要设计高效的边缘服务部署机制，以降低冷启动延迟并提升资源利用率。
