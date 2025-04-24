@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Edge Caching"
+title: "边缘缓存"
 subtitle: ""
 summary: ""
 authors: []

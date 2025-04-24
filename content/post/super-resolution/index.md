@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Super Resolution"
+title: "视频超分辨率"
 subtitle: ""
 summary: ""
 authors: []

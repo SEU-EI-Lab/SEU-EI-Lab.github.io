@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Mot"
+title: "多目标跟踪"
 subtitle: ""
 summary: ""
 authors: []

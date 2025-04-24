@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Model Adaptation"
+title: "模型适应"
 subtitle: ""
 summary: ""
 authors: []

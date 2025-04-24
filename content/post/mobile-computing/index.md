@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Mobile Computing"
+title: "移动计算"
 subtitle: ""
 summary: ""
 authors: []

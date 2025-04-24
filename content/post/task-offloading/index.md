@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Task Offloading"
+title: "任务卸载"
 subtitle: ""
 summary: ""
 authors: []

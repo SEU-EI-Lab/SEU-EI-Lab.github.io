@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Serverless"
+title: "无服务计算"
 subtitle: ""
 summary: ""
 authors: []

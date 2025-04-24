@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Federated Learning"
+title: "联邦学习"
 subtitle: ""
 summary: ""
 authors: []

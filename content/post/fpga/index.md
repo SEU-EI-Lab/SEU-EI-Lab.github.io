@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Fpga"
+title: "FPGA"
 subtitle: ""
 summary: ""
 authors: []

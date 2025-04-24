@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Multi Exit Dnn"
+title: "双维度可伸缩DNN"
 subtitle: ""
 summary: ""
 authors: []

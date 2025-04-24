@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Continuous Learning"
+title: "持续学习"
 subtitle: ""
 summary: ""
 authors: []

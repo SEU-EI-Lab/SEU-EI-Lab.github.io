@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Sitellite Computing"
+title: "卫星边缘计算"
 subtitle: ""
 summary: ""
 authors: []

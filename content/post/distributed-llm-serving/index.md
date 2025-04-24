@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Distributed LLM Serving"
+title: "分布式大模型推理"
 subtitle: ""
 summary: ""
 authors: []
