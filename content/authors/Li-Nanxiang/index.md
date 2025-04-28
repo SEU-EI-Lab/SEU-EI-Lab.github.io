@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Nanxiang Li ÀîÄÏÏè
+title: Nanxiang Li æå—ç¿”
 
 # Full name
 first_name: Nanxiang
 last_name: Li
 
-Grade: 2024¼¶Ë¶Ê¿ÑĞ¾¿Éú
+Grade: 2024çº§ç¡•å£«ç ”ç©¶ç”Ÿ
 ---

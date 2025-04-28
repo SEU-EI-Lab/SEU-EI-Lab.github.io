@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Zijin He ºÎ×ÓñÆ
+title: Zijin He ä½•å­è¡¿
 
 # Full name
 first_name: Zijin
 last_name: He
 
-Grade: 2025¼¶Ë¶Ê¿ÑĞ¾¿Éú
+Grade: 2025çº§ç¡•å£«ç ”ç©¶ç”Ÿ
 ---

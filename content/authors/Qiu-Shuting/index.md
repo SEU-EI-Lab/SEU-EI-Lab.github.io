@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Shuting Qiu ÇðÊçæÃ
+title: Shuting Qiu ä¸˜æ·‘å©·
 
 # Full name
 first_name: Shuting
 last_name: Qiu
 
-Grade: 2023¼¶Ë¶Ê¿ÑÐ¾¿Éú
+Grade: 2023çº§ç¡•å£«ç ”ç©¶ç”Ÿ
 ---

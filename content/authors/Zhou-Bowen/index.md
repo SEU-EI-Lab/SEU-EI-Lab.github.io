@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Bowen Zhou ÖÜ²©ÎÄ
+title: Bowen Zhou å‘¨åšæ–‡
 
 # Full name
 first_name: Bowen
 last_name: Zhou
 
-Grade: 2021¼¶²©Ê¿ÑĞ¾¿Éú
+Grade: 2021çº§åšå£«ç ”ç©¶ç”Ÿ
 ---

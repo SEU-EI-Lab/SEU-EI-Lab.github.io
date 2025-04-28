@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Qi Yang 杨琪
+title: Qi Yang 鏉ㄧ惇
 
 # Full name
 first_name: Qi
 last_name: Yang
 
-Grade: 2024级博士研究生
+Grade: 2024绾у崥澹爺绌剁敓
 ---

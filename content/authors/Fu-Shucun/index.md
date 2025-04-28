@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Shucun Fu ·üÊæ´æ
+title: Shucun Fu ä¼èˆ’å­˜
 
 # Full name
 first_name: Shucun
 last_name: Fu
 
-Grade: 2020¼¶²©Ê¿ÑĞ¾¿Éú
+Grade: 2020çº§åšå£«ç ”ç©¶ç”Ÿ
 ---

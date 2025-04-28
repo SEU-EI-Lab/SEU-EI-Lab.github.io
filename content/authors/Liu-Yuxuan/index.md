@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yuxuan Liu ÁõÓêĞû
+title: Yuxuan Liu åˆ˜é›¨å®£
 
 # Full name
 first_name: Yuxuan
 last_name: Liu
 
-Grade: 2024¼¶Ë¶Ê¿ÑĞ¾¿Éú
+Grade: 2024çº§ç¡•å£«ç ”ç©¶ç”Ÿ
 ---

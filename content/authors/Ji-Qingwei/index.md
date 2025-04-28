@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Qingwei Ji ¼ÍÇåçâ
+title: Qingwei Ji çºªæ¸…ç®
 
 # Full name
 first_name: Qingwei
 last_name: Ji
 
-Grade: 2024¼¶²©Ê¿ÑĞ¾¿Éú
+Grade: 2024çº§åšå£«ç ”ç©¶ç”Ÿ
 ---

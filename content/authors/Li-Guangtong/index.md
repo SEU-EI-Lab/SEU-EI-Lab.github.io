@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Guangtong Li Àî¹ãÍ¨
+title: Guangtong Li æå¹¿é€š
 
 # Full name
 first_name: Guangtong
 last_name: Li
 
-Grade: 2023¼¶Ë¶Ê¿ÑĞ¾¿Éú
+Grade: 2023çº§ç¡•å£«ç ”ç©¶ç”Ÿ
 ---

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Fan Sun 孙帆
+title: Fan Sun 瀛欏竼
 
 # Full name
 first_name: Fan
 last_name: Sun
 
-Grade: 2023级博士研究生
+Grade: 2023绾у崥澹爺绌剁敓
 ---

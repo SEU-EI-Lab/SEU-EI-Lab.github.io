@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Lidan Xu ĞíÁ¦µ¤
+title: Lidan Xu è®¸åŠ›ä¸¹
 
 # Full name
 first_name: Lidan
 last_name: Xu
 
-Grade: 2024¼¶²©Ê¿ÑĞ¾¿Éú
+Grade: 2024çº§åšå£«ç ”ç©¶ç”Ÿ
 ---

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yihao Jiang ½ªÒÕºÀ
+title: Yihao Jiang å§œè‰ºè±ª
 
 # Full name
 first_name: Yihao
 last_name: Jiang
 
-Grade: 2024¼¶Ë¶Ê¿ÑÐ¾¿Éú
+Grade: 2024çº§ç¡•å£«ç ”ç©¶ç”Ÿ
 ---
