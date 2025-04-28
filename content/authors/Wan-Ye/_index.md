@@ -6,5 +6,6 @@ title: Ye Wan 万晔
 first_name: Ye
 last_name: Wan
 
-Grade: 2023级硕士研究生
+user_groups:
+  - 硕士研究生
 ---

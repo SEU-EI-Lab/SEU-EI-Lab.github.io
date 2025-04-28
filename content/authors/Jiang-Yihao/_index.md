@@ -6,5 +6,6 @@ title: Yihao Jiang 姜艺豪
 first_name: Yihao
 last_name: Jiang
 
-Grade: 2024级硕士研究生
+user_groups:
+  - 硕士研究生
 ---

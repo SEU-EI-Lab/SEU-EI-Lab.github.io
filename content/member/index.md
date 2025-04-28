@@ -11,11 +11,10 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Director
-          - Faculty
-          - Grad Students
-          - PhD Students
-          - MS Students
+          - 主任
+          - 教授
+          - 博士研究生
+          - 硕士研究生
       sort_by: Params.last_name
       sort_ascending: true
     design:

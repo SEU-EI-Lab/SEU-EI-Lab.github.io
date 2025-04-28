@@ -6,5 +6,6 @@ title: Fan Sun 孙帆
 first_name: Fan
 last_name: Sun
 
-Grade: 2023级博士研究生
+user_groups:
+  - 博士研究生
 ---

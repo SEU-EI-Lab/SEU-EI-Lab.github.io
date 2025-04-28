@@ -6,5 +6,6 @@ title: Shuting Qiu 丘淑婷
 first_name: Shuting
 last_name: Qiu
 
-Grade: 2023级硕士研究生
+user_groups:
+  - 硕士研究生
 ---

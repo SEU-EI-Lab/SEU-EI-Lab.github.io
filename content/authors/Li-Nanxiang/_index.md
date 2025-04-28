@@ -6,5 +6,6 @@ title: Nanxiang Li 李南翔
 first_name: Nanxiang
 last_name: Li
 
-Grade: 2024级硕士研究生
+user_groups:
+  - 硕士研究生
 ---

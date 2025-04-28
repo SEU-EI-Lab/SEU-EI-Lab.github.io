@@ -6,5 +6,6 @@ title: Shucun Fu 伏舒存
 first_name: Shucun
 last_name: Fu
 
-Grade: 2020级博士研究生
+user_groups:
+  - 博士研究生
 ---

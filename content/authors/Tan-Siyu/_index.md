@@ -6,5 +6,6 @@ title: Siyu Tan 谭思雨
 first_name: Siyu
 last_name: Tan
 
-Grade: 2022级博士研究生
+user_groups:
+  - 博士研究生
 ---

@@ -6,5 +6,6 @@ title: Runze Chen 陈润泽
 first_name: Runze
 last_name: Chen
 
-Grade: 2023级硕士研究生
+user_groups:
+  - 硕士研究生
 ---

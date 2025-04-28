@@ -6,5 +6,6 @@ title: Bowen Zhou 周博文
 first_name: Bowen
 last_name: Zhou
 
-Grade: 2021级博士研究生
+user_groups:
+  - 博士研究生
 ---

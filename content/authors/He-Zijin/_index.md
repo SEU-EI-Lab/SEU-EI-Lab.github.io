@@ -6,5 +6,6 @@ title: Zijin He 何子衿
 first_name: Zijin
 last_name: He
 
-Grade: 2025级硕士研究生
+user_groups:
+  - 硕士研究生
 ---

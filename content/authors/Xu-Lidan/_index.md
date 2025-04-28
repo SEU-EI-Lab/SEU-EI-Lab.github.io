@@ -6,5 +6,6 @@ title: Lidan Xu 许力丹
 first_name: Lidan
 last_name: Xu
 
-Grade: 2024级博士研究生
+user_groups:
+  - 博士研究生
 ---
