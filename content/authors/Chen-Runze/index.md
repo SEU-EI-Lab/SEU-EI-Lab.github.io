@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Runze Chen ³ÂÈóÔó
+title: Runze Chen é™ˆæ¶¦æ³½
 
 # Full name
 first_name: Runze
 last_name: Chen
 
-Grade: 2023¼¶Ë¶Ê¿ÑĞ¾¿Éú
+Grade: 2023çº§ç¡•å£«ç ”ç©¶ç”Ÿ
 ---
