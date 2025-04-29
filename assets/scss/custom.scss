@@ -1,12 +1,23 @@
+// 简介字体大小正常化
 .hero-lead {
-    font-size: 1rem;
+  font-size: 1rem;
 }
 
+// 简介图片水平、垂直居中
 .row {
-    justify-content: center;
-    align-items: center;
+  justify-content: center;
+  align-items: center;
 }
 
+// 无序列表两端对齐
 ul {
-    text-align: justify;
+  text-align: justify;
+}
+
+// 论文加粗信息修改颜色
+li > p > strong {
+  color: var(--red);
+  .dark & {
+    color: var(--yellow);
+  }
 }
